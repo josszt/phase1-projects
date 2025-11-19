@@ -1,5 +1,11 @@
 # Python Learning Notes - Phase 1
 
+<!--TOC-->
+
+# Table of Contents
+- [Day 1 - Initial commit and environment setup](#day-1---initial-commit-and-environment-setup)
+- [Day 2 - Added Python basic calculator script](#day-2---added-python-basic-calculator-script)
+- [Day 3 - Conditional logic and loops](#day-3---conditional-logic-and-loops)
 ---
 
 ## Day 1 - Initial commit and environment setup
@@ -61,6 +67,9 @@
 - Experimented with `range(start, stop, step)`
 - Pushed updated script to GitHub using VS Code Source Control
 - Created automated script that appends a new day entry to notes.md
+- Amended code to atuomatically detect the last day and incrememnt the day number
+- Amended code to append a formatted Markdown heading and template to notes.md
+- Amended code to automatically add a Table of Contents (TOC) entry at the top
 
 **File(s):**
 `day3_loops.py`
