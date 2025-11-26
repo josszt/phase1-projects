@@ -1,12 +1,11 @@
 # Python Learning Notes - Phase 1
 
 <!--TOC-->
-- [Day 4 - Functions and basic modularization](#day-4---functions--basic-modularization)
-
 # Table of Contents
 - [Day 1 - Initial commit and environment setup](#day-1---initial-commit-and-environment-setup)
 - [Day 2 - Added Python basic calculator script](#day-2---added-python-basic-calculator-script)
 - [Day 3 - Conditional logic and loops](#day-3---conditional-logic-and-loops)
+- [Day 4 - Functions and basic modularization](#day-4---functions--basic-modularization)
 ---
 
 ## Day 1 - Initial commit and environment setup
