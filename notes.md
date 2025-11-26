@@ -1,7 +1,7 @@
 # Python Learning Notes - Phase 1
 
 <!--TOC-->
-- [Day 4 - & C:/Users/joshu/AppData/Local/Programs/Python/Python312/python.exe c:/Users/joshu/Documents/Desktop/Phase1_Project/day4_functions.py](#day-4-&-c:/users/joshu/appdata/local/programs/python/python312/python.exe-c:/users/joshu/documents/desktop/phase1_project/day4_functions.py)
+- [Day 4 - Functions and basic modularization](#day-4---functions--basic-modularization)
 
 # Table of Contents
 - [Day 1 - Initial commit and environment setup](#day-1---initial-commit-and-environment-setup)
@@ -99,8 +99,8 @@
 - Built a Caesar cypher in freecodecamp Python certification course.
 
 **File(s):**
-- day4_functions.py
-- day4_helpers.py
+- `day4_functions.py`
+- `day4_helpers.py`
 
 **Key Lessons / Notes:**
 - Functions allow me to reuse code rather than repeating logic.
