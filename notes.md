@@ -1,6 +1,7 @@
 # Python Learning Notes - Phase 1
 
 <!--TOC-->
+- [Day 4 - & C:/Users/joshu/AppData/Local/Programs/Python/Python312/python.exe c:/Users/joshu/Documents/Desktop/Phase1_Project/day4_functions.py](#day-4-&-c:/users/joshu/appdata/local/programs/python/python312/python.exe-c:/users/joshu/documents/desktop/phase1_project/day4_functions.py)
 
 # Table of Contents
 - [Day 1 - Initial commit and environment setup](#day-1---initial-commit-and-environment-setup)
@@ -81,3 +82,35 @@
 
 **Issues / Fixes:**
 - None on Day 3
+## Day 4 - Functions & Basic Modularization
+**Date:** 2025-11-25
+
+**What I did:**
+- Learned to define functions using def
+- Practiced writing Python functions with inputs and return values.
+- Learned to separate code into multiple files.
+- Created multiple small functions to handle greetings, aritmetic and logic checks.
+- Created a separate module of functions (greet, add_numbers, is_even, etc.)
+- Imported functions using 'from helpers import'.
+- Tested several functions and verified that imports worked correctly.
+- Other functions included conversions (c to f, f to c, km to m, etc.), asking user for choice.
+- Created a tip calculator factoring total bill, percentage required, and split with however many people. 
+- Created prompt to identify how many words in a sentence.
+- Built a Caesar cypher in freecodecamp Python certification course.
+
+**File(s):**
+- day4_functions.py
+- day4_helpers.py
+
+**Key Lessons / Notes:**
+- Functions allow me to reuse code rather than repeating logic.
+- Parameters let me pass in different values to customize behaviour/result.
+- Return values allow functions to send back results to the main script.
+- Modularization - learning how real prokects are structed/multiple Python files.
+- Using import helps keep the main script clean and organized - I need to remember to keep it cleaner.
+- Learned the difference between running a file and importing it. 
+- A little more comfortable with Python syntax. 
+
+**Issues / Fixes:**
+- Typos in function names (addnumber vs add_number) caused errors.
+- Pay attention to input values coming in as strings (convert with int() or float())
